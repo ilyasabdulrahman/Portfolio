@@ -16,8 +16,7 @@ val.setAttribute('src', val.getAttribute('default'));
 val.style.height = null;
 }
   
-  
-  
+
 $(document).ready(function(){
     $('[tool-tip-toggle="my-tooltip"]').tooltip({
     placement : 'bottom'
